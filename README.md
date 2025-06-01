@@ -68,7 +68,7 @@ cd Dart_Game_Q
 ```
 3. **Run the game**  
 ```python
-python dart_game_Q.py
+python game_Q.py
 ```
 
 ---
